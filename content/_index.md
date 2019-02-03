@@ -1,0 +1,2 @@
+## About me
+I'm a software engineer that have experience working in multiple projects that go from developing games to websites. Some of the topics I like to research for personal fun are game developing, cyber security, and blockchain technology. If you are here, is probably because you've got my resume. Give me a call and let's have a chat!
