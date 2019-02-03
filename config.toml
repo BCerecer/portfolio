@@ -1,4 +1,4 @@
-baseurl = "blascerecer.netlify.com"
+baseurl = "https://blascerecer.netlify.com"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Blas Cerecer"
