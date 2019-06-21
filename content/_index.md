@@ -1,2 +1,5 @@
-## About me
-I'm a software engineer that have experience working in multiple projects that go from developing games to websites. Some of the topics I like to research for personal fun are game developing, cyber security, and blockchain technology. If you are here, is probably because you've got my resume. Give me a call and let's have a chat!
+## Hello, I'm Blas. 
+
+I am a software engineer who loves building great products with awesome teams. My current hobby has been creating NAMBAWAN, a mobile gaming company; you can check it out [here](https://nambawan.io). I like the process of coding a game and then creating the art for it. I am also passionate about cyber security and blockchain, which are topics that continously I look around. Besides that, I also have an engaging full time job as a software engineer where I continously have to be learning a or a new skills depending on the project. Currently, I have worked on about 6 projects where I've developed full stack skills. The project I am currently working on, consists in creating scripts to automate AWS tasks. I enjoy to be continously learning and searching for what I need in order to solve problems. Enough about me, send me an email and tell me about you.
+
+PS: My github is kind of lame because the projects at work use private repositories and also my games are on a private repository.
